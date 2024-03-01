@@ -1,4 +1,5 @@
 package desafio3
 
-class Pessoa(nome: String, idade: Int) {
+class Pessoa(val nome: String, val idade: Int) {
+
 }
